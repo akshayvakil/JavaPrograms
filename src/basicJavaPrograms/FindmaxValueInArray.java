@@ -1,10 +1,7 @@
 package basicJavaPrograms;
 
 public class FindmaxValueInArray {
-	//Find max value program
-	//Find max value program
-	//This is develop branch this line is not present in master command1 but how this present on master?
-	//This is develop branch this line is not present in master command2
+
 	/**
 	 * git add *
 	 * git commit -m "commit message"
