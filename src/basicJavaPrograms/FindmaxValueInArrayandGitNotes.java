@@ -1,14 +1,28 @@
 package basicJavaPrograms;
 
-public class FindmaxValueInArray {
+public class FindmaxValueInArrayandGitNotes {
 
 	/**
+	 *  Basic git commands https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html  
 	 * git add *
 	 * git commit -m "commit message"
 	 * git checkout -b develop
+	 * git checkout branchname  [to switch to branch]
 	 * git branch -d developbranchname OR git branch -D branchname OR git push origin --delete branchname
 	 * >git config --global core.autocrlf true
 	 * @param args
+	 *
+	 * Merge Solving 
+	 * code between HEAD and == is your code
+	 * code from develop and above till ==== is your new code, discussion save file and then git add , commit and push to solve merge
+	 * If you are one of the branch pushed means next to commit
+	 * use git fetch origin command then solve by above appraoch
+	 * 
+	 * How to merge develop branch with master branch
+	 * switch to branch
+	 * git checkout master
+	 * git merge develop 
+	 * 
 	 */
 
 
