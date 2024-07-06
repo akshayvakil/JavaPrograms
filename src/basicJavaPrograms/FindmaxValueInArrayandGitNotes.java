@@ -23,6 +23,33 @@ public class FindmaxValueInArrayandGitNotes {
 	 * git checkout master
 	 * git merge develop 
 	 * 
+	 * 
+	 * When you use git remote -v  --to view remote repositories, 
+	 * you see two URLs listed for each remote: a fetch URL and a push URL. Here’s what each URL represents:
+	 * 
+	 * Code to revert code from remote git repo
+	 * # Step 1: Fetch latest changes
+git fetch origin
+
+# Step 2: Identify the commit to revert
+git log -n 5
+
+# Step 3: Revert the commit locally
+git revert abcdef1234567890
+
+# Step 4: Resolve any merge conflicts (if any)
+git status
+# Resolve conflicts in conflicted files
+git add <resolved_file>
+git commit
+
+# Step 5: Commit the revert
+git commit
+
+# Step 6: Push the revert commit to remote
+git push origin master
+
+	 * 
 	 */
 
 
