@@ -4,7 +4,7 @@ package basicJavaPrograms;
 public class FindmaxValueInArrayandGitNotes {
 
 
-	/** test revet again s
+	/** test revet again
 	 *  Basic git commands https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html  
 	 * git add *
 	 * git commit -m "commit message"
