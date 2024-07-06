@@ -4,6 +4,11 @@ public class FindmaxValueInArray {
 	//Find max value program
 	//Find max value program
 
+
+	//This is develop branch this line is not present in master command
+	// this is java program 2 code
+
+
 	//This is develop branch this line is not present in master command
 	// this is java program 2 code
 
@@ -17,6 +22,7 @@ public class FindmaxValueInArray {
 	 * >git config --global core.autocrlf true
 	 * @param args
 	 */
+
 
 	public static void main(String[] args) {
 		
