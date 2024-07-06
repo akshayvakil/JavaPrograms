@@ -3,6 +3,8 @@ package basicJavaPrograms;
 public class FindmaxValueInArray {
 
 	public static void main(String[] args) {
+		
+		// This is master branch
 		int[] intarr = { 10, 2, 3, 30, 12 };
 		
 // Find Max Value in array		
