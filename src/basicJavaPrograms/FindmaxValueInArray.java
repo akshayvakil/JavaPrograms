@@ -2,11 +2,11 @@ package basicJavaPrograms;
 
 public class FindmaxValueInArray {
 	//Find max value program
-	//Find max value program
-<<<<<<< HEAD
+	//Find max value program in javaprogram to merge is not solved
+
 	//This is develop branch this line is not present in master command
 	// this is java program 2 code
-=======
+
 	//This is develop branch this line is not present in master command1 but how this present on master?
 	//This is develop branch this line is not present in master command2
 	/**
@@ -17,7 +17,7 @@ public class FindmaxValueInArray {
 	 * >git config --global core.autocrlf true
 	 * @param args
 	 */
->>>>>>> ca1a3c82bad40ed0cf7cb0c6679eb446c36271a6
+
 
 	public static void main(String[] args) {
 		
