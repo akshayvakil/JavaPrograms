@@ -2,7 +2,7 @@ package basicJavaPrograms;
 
 public class FindmaxValueInArray {
 	//Find max value program
-	//Find max value program
+	//Find max value program check merge
 
 
 	//This is develop branch this line is not present in master command
