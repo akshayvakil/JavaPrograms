@@ -2,7 +2,6 @@ package basicJavaPrograms;
 
 public class FindmaxValueInArray {
 
-
 	/**
 	 * git add *
 	 * git commit -m "commit message"
