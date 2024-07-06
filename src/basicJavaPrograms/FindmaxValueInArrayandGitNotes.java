@@ -32,10 +32,13 @@ public class FindmaxValueInArrayandGitNotes {
 git fetch origin
 
 # Step 2: Identify the commit to revert
-git log -n 5
+git log -n 5 
 
 # Step 3: Revert the commit locally
-git revert abcdef1234567890
+if not commited use only "git checkout -- ."
+
+git revert abcdef1234567890 
+# this is little complex sometimes "git revert -m 1 asdasdasd" to be used 
 
 # Step 4: Resolve any merge conflicts (if any)
 git status
